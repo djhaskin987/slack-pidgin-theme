@@ -36,24 +36,17 @@ Author=Daniel Haskin
 1f23a.png	🈺
 1f250.png	🉐
 1f251.png	🉑
-1f300.png	:cyclone:
-1f300.png	🌀
-1f301.png	:foggy:
-1f301.png	🌁
+1f300.png	🌀 :cyclone:
+1f301.png	🌁 :foggy:
 1f302.png	🌂
 1f303.png	🌃
-1f304.png	:sunrise_over_mountains:
-1f304.png	🌄
-1f305.png	:sunrise:
-1f305.png	🌅
+1f304.png	🌄 :sunrise_over_mountains:
+1f305.png	🌅 :sunrise:
 1f306.png	🌆
 1f307.png	🌇
-1f308.png	:rainbow:
-1f308.png	🌈
-1f309.png	:bridge_at_night:
-1f309.png	🌉
-1f30a.png	:ocean:
-1f30a.png	🌊
+1f308.png	🌈 :rainbow:
+1f309.png	🌉 :bridge_at_night:
+1f30a.png	🌊 :ocean:
 1f30b.png	🌋
 1f30c.png	🌌
 1f30d.png	🌍
@@ -170,43 +163,31 @@ Author=Daniel Haskin
 1f37e.png	🍾
 1f37f.png	🍿
 1f380.png	🎀
-1f381.png	:gift:
-1f381.png	🎁
+1f381.png	🎁 :gift:
 1f382.png	🎂
-1f383.png	:jack_o_lantern:
-1f383.png	🎃
-1f384.png	:christmas_tree:
-1f384.png	🎄
+1f383.png	🎃 :jack_o_lantern:
+1f384.png	🎄 :christmas_tree:
 1f385-1f3fb.png	🎅🏻
 1f385-1f3fc.png	🎅🏼
-1f385-1f3fd.png	:santa:
-1f385-1f3fd.png	:santa:
+1f385-1f3fd.png	:santa: :santa:
 1f385-1f3fd.png	🎅🏽
 1f385-1f3fe.png	🎅🏾
 1f385-1f3ff.png	🎅🏿
 1f385.png	🎅
-1f386.png	:fireworks:
-1f386.png	🎆
+1f386.png	🎆 :fireworks:
 1f387.png	🎇
-1f388.png	:balloon:
-1f388.png	🎈
-1f389.png	:tada:
-1f389.png	:tada:
+1f388.png	🎈 :balloon:
+1f389.png	:tada: :tada:
 1f389.png	🎉
-1f38a.png	:confetti_ball:
-1f38a.png	🎊
-1f38b.png	:tanabata_tree:
-1f38b.png	🎋
+1f38a.png	🎊 :confetti_ball:
+1f38b.png	🎋 :tanabata_tree:
 1f38c.png	🎌
 1f38d.png	🎍
-1f38e.png	:dolls:
-1f38e.png	🎎
+1f38e.png	🎎 :dolls:
 1f38f.png	🎏
-1f390.png	:wind_chime:
-1f390.png	🎐
+1f390.png	🎐 :wind_chime:
 1f391.png	🎑
-1f392.png	:school_satchel:
-1f392.png	🎒
+1f392.png	🎒 :school_satchel:
 1f393.png	🎓
 1f396-fe0f.png	🎖️
 1f397-fe0f.png	🎗️
@@ -215,16 +196,12 @@ Author=Daniel Haskin
 1f39b-fe0f.png	🎛️
 1f39e-fe0f.png	🎞️
 1f39f-fe0f.png	🎟️
-1f3a0.png	:carousel_horse:
-1f3a0.png	🎠
-1f3a1.png	:ferris_wheel:
-1f3a1.png	🎡
-1f3a2.png	:roller_coaster:
-1f3a2.png	🎢
+1f3a0.png	🎠 :carousel_horse:
+1f3a1.png	🎡 :ferris_wheel:
+1f3a2.png	🎢 :roller_coaster:
 1f3a3.png	🎣
 1f3a4.png	🎤
-1f3a5.png	:movie_camera:
-1f3a5.png	🎥
+1f3a5.png	🎥 :movie_camera:
 1f3a6.png	🎦
 1f3a7.png	🎧
 1f3a8.png	🎨
@@ -234,8 +211,7 @@ Author=Daniel Haskin
 1f3ac.png	🎬
 1f3ad.png	🎭
 1f3ae.png	🎮
-1f3af.png	:dart:
-1f3af.png	🎯
+1f3af.png	🎯 :dart:
 1f3b0.png	🎰
 1f3b1.png	🎱
 1f3b2.png	🎲
@@ -265,8 +241,7 @@ Author=Daniel Haskin
 1f3c3-1f3fd.png	🏃🏽
 1f3c3-1f3fe.png	🏃🏾
 1f3c3-1f3ff.png	🏃🏿
-1f3c3-200d-2640-fe0f.png	:woman-running:
-1f3c3-200d-2640-fe0f.png	🏃‍♀️
+1f3c3-200d-2640-fe0f.png	🏃‍♀️ :woman-running:
 1f3c3.png	🏃
 1f3c4-1f3fb.png	🏄🏻
 1f3c4-1f3fc.png	🏄🏼
@@ -279,8 +254,7 @@ Author=Daniel Haskin
 1f3c6.png	🏆
 1f3c7-1f3fb.png	🏇🏻
 1f3c7-1f3fc.png	🏇🏼
-1f3c7-1f3fd.png	:racehorse:
-1f3c7-1f3fd.png	🏇🏽
+1f3c7-1f3fd.png	🏇🏽 :racehorse:
 1f3c7-1f3fe.png	🏇🏾
 1f3c7-1f3ff.png	🏇🏿
 1f3c7.png	🏇
@@ -326,29 +300,19 @@ Author=Daniel Haskin
 1f3dd-fe0f.png	🏝️
 1f3de-fe0f.png	🏞️
 1f3df-fe0f.png	🏟️
-1f3e0.png	:house:
-1f3e0.png	🏠
-1f3e1.png	:house_with_garden:
-1f3e1.png	🏡
-1f3e2.png	:office:
-1f3e2.png	🏢
+1f3e0.png	🏠 :house:
+1f3e1.png	🏡 :house_with_garden:
+1f3e2.png	🏢 :office:
 1f3e3.png	🏣
-1f3e4.png	:post_office:
-1f3e4.png	🏤
-1f3e5.png	:hospital:
-1f3e5.png	🏥
-1f3e6.png	:bank:
-1f3e6.png	🏦
+1f3e4.png	🏤 :post_office:
+1f3e5.png	🏥 :hospital:
+1f3e6.png	🏦 :bank:
 1f3e7.png	🏧
-1f3e8.png	:hotel:
-1f3e8.png	🏨
+1f3e8.png	🏨 :hotel:
 1f3e9.png	🏩
-1f3ea.png	:convenience_store:
-1f3ea.png	🏪
-1f3eb.png	:school:
-1f3eb.png	🏫
-1f3ec.png	:department_store:
-1f3ec.png	🏬
+1f3ea.png	🏪 :convenience_store:
+1f3eb.png	🏫 :school:
+1f3ec.png	🏬 :department_store:
 1f3ed.png	🏭
 1f3ee.png	🏮
 1f3ef.png	🏯
@@ -370,81 +334,50 @@ Author=Daniel Haskin
 1f3fe.png	🏾
 1f3ff.png	🏿
 1f400.png	🐀
-1f401.png	:mouse:
-1f401.png	🐁
+1f401.png	🐁 :mouse:
 1f402.png	🐂
 1f403.png	🐃
-1f404.png	:cow:
-1f404.png	🐄
-1f405.png	:tiger:
-1f405.png	🐅
+1f404.png	🐄 :cow:
+1f405.png	🐅 :tiger:
 1f406.png	🐆
-1f407.png	:rabbit:
-1f407.png	🐇
-1f408.png	:cat:
-1f408.png	🐈
+1f407.png	🐇 :rabbit:
+1f408.png	🐈 :cat:
 1f409.png	🐉
 1f40a.png	🐊
-1f40b.png	:whale:
-1f40b.png	🐋
-1f40c.png	:snail:
-1f40c.png	🐌
-1f40d.png	:snake:
-1f40d.png	🐍
-1f40e.png	:horse:
-1f40e.png	🐎
+1f40b.png	🐋 :whale:
+1f40c.png	🐌 :snail:
+1f40d.png	🐍 :snake:
+1f40e.png	🐎 :horse:
 1f40f.png	🐏
 1f410.png	🐐
-1f411.png	:sheep:
-1f411.png	🐑
-1f412.png	:monkey:
-1f412.png	🐒
+1f411.png	🐑 :sheep:
+1f412.png	🐒 :monkey:
 1f413.png	🐓
-1f414.png	:chicken:
-1f414.png	🐔
-1f415.png	:dog:
-1f415.png	🐕
-1f416.png	:pig:
-1f416.png	🐖
-1f417.png	:boar:
-1f417.png	🐗
-1f418.png	:elephant:
-1f418.png	🐘
-1f419.png	:octopus:
-1f419.png	🐙
+1f414.png	🐔 :chicken:
+1f415.png	🐕 :dog:
+1f416.png	🐖 :pig:
+1f417.png	🐗 :boar:
+1f418.png	🐘 :elephant:
+1f419.png	🐙 :octopus:
 1f41a.png	🐚
-1f41b.png	:bug:
-1f41b.png	🐛
-1f41c.png	:ant:
-1f41c.png	🐜
-1f41d.png	:honeybee:
-1f41d.png	🐝
-1f41e.png	:beetle:
-1f41e.png	🐞
-1f41f.png	:fish:
-1f41f.png	🐟
-1f420.png	:tropical_fish:
-1f420.png	🐠
+1f41b.png	🐛 :bug:
+1f41c.png	🐜 :ant:
+1f41d.png	🐝 :honeybee:
+1f41e.png	🐞 :beetle:
+1f41f.png	🐟 :fish:
+1f420.png	🐠 :tropical_fish:
 1f421.png	🐡
-1f422.png	:turtle:
-1f422.png	🐢
-1f423.png	:hatched_chick:
-1f423.png	🐣
-1f424.png	:baby_chick:
-1f424.png	🐤
+1f422.png	🐢 :turtle:
+1f423.png	🐣 :hatched_chick:
+1f424.png	🐤 :baby_chick:
 1f425.png	🐥
-1f426.png	:bird:
-1f426.png	🐦
-1f427.png	:penguin:
-1f427.png	🐧
-1f428.png	:koala:
-1f428.png	🐨
+1f426.png	🐦 :bird:
+1f427.png	🐧 :penguin:
+1f428.png	🐨 :koala:
 1f429.png	🐩
-1f42a.png	:camel:
-1f42a.png	🐪
+1f42a.png	🐪 :camel:
 1f42b.png	🐫
-1f42c.png	:dolphin:
-1f42c.png	🐬
+1f42c.png	🐬 :dolphin:
 1f42d.png	🐭
 1f42e.png	🐮
 1f42f.png	🐯
@@ -453,26 +386,18 @@ Author=Daniel Haskin
 1f432.png	🐲
 1f433.png	🐳
 1f434.png	🐴
-1f435.png	:monkey_face:
-1f435.png	🐵
+1f435.png	🐵 :monkey_face:
 1f436.png	🐶
 1f437.png	🐷
-1f438.png	:frog:
-1f438.png	🐸
-1f439.png	:hamster:
-1f439.png	🐹
-1f43a.png	:wolf:
-1f43a.png	🐺
-1f43b.png	:bear:
-1f43b.png	🐻
-1f43c.png	:panda_face:
-1f43c.png	🐼
-1f43d.png	:pig_nose:
-1f43d.png	🐽
+1f438.png	🐸 :frog:
+1f439.png	🐹 :hamster:
+1f43a.png	🐺 :wolf:
+1f43b.png	🐻 :bear:
+1f43c.png	🐼 :panda_face:
+1f43d.png	🐽 :pig_nose:
 1f43e.png	🐾
 1f43f-fe0f.png	🐿️
-1f440.png	:eyes:
-1f440.png	👀
+1f440.png	👀 :eyes:
 1f441-fe0f.png	👁️
 1f442-1f3fb.png	👂🏻
 1f442-1f3fc.png	👂🏼
@@ -520,8 +445,7 @@ Author=Daniel Haskin
 1f44a.png	👊
 1f44b-1f3fb.png	👋🏻
 1f44b-1f3fc.png	👋🏼
-1f44b-1f3fd.png	:wave:
-1f44b-1f3fd.png	👋🏽
+1f44b-1f3fd.png	👋🏽 :wave:
 1f44b-1f3fe.png	👋🏾
 1f44b-1f3ff.png	👋🏿
 1f44b.png	👋
@@ -536,8 +460,7 @@ Author=Daniel Haskin
 1f44d-1f3fd.png	👍🏽
 1f44d-1f3fe.png	👍🏾
 1f44d-1f3ff.png	👍🏿
-1f44d.png	:thumbsup:
-1f44d.png	👍
+1f44d.png	👍 :thumbsup:
 1f44e-1f3fb.png	👎🏻
 1f44e-1f3fc.png	👎🏼
 1f44e-1f3fd.png	👎🏽
@@ -548,8 +471,7 @@ Author=Daniel Haskin
 1f44f-1f3fc.png	👏🏼
 1f44f-1f3fd.png	👏🏽
 1f44f-1f3fe.png	👏🏾
-1f44f-1f3ff.png	:clap:
-1f44f-1f3ff.png	👏🏿
+1f44f-1f3ff.png	👏🏿 :clap:
 1f44f.png	👏
 1f450-1f3fb.png	👐🏻
 1f450-1f3fc.png	👐🏼
@@ -582,8 +504,7 @@ Author=Daniel Haskin
 1f466-1f3fc.png	👦🏼
 1f466-1f3fd.png	👦🏽
 1f466-1f3fe.png	👦🏾
-1f466-1f3ff.png	:boy:
-1f466-1f3ff.png	👦🏿
+1f466-1f3ff.png	👦🏿 :boy:
 1f466.png	👦
 1f467-1f3fb.png	👧🏻
 1f467-1f3fc.png	👧🏼
@@ -596,22 +517,14 @@ Author=Daniel Haskin
 1f468-1f3fd.png	👨🏽
 1f468-1f3fe.png	👨🏾
 1f468-1f3ff.png	👨🏿
-1f468-200d-1f33e.png	:male-farmer:
-1f468-200d-1f33e.png	👨‍🌾
-1f468-200d-1f373.png	:male-cook:
-1f468-200d-1f373.png	👨‍🍳
-1f468-200d-1f393.png	:male-student:
-1f468-200d-1f393.png	👨‍🎓
-1f468-200d-1f3a4.png	:male-singer:
-1f468-200d-1f3a4.png	👨‍🎤
-1f468-200d-1f3a8.png	:male-artist:
-1f468-200d-1f3a8.png	👨‍🎨
-1f468-200d-1f3eb.png	:male-teacher:
-1f468-200d-1f3eb.png	👨‍🏫
-1f468-200d-1f3ed.png	:male-factory-worker:
-1f468-200d-1f3ed.png	:man:
-1f468-200d-1f3ed.png	👨‍:factory:
-1f468-200d-1f3ed.png	👨‍🏭
+1f468-200d-1f33e.png	👨‍🌾 :male-farmer:
+1f468-200d-1f373.png	👨‍🍳 :male-cook:
+1f468-200d-1f393.png	👨‍🎓 :male-student:
+1f468-200d-1f3a4.png	👨‍🎤 :male-singer:
+1f468-200d-1f3a8.png	👨‍🎨 :male-artist:
+1f468-200d-1f3eb.png	👨‍🏫 :male-teacher:
+1f468-200d-1f3ed.png	:man: :male-factory-worker:
+1f468-200d-1f3ed.png	👨‍🏭 :factory:
 1f468-200d-1f466-200d-1f466.png	👨‍👦‍👦
 1f468-200d-1f466.png	👨‍👦
 1f468-200d-1f467-200d-1f466.png	👨‍👧‍👦
@@ -625,25 +538,16 @@ Author=Daniel Haskin
 1f468-200d-1f469-200d-1f466-200d-1f466.png	👨‍👩‍👦‍👦
 1f468-200d-1f469-200d-1f467-200d-1f466.png	👨‍👩‍👧‍👦
 1f468-200d-1f469-200d-1f467-200d-1f467.png	👨‍👩‍👧‍👧
-1f468-200d-1f469-200d-1f467.png	👨‍👩‍:girl:
-1f468-200d-1f469-200d-1f467.png	👨‍👩‍👧
-1f468-200d-1f4bb.png	:male-technologist:
-1f468-200d-1f4bb.png	👨‍💻
+1f468-200d-1f469-200d-1f467.png	👨‍👩‍👧 :girl:
+1f468-200d-1f4bb.png	👨‍💻 :male-technologist:
 1f468-200d-1f4bc.png	👨‍💼
-1f468-200d-1f527.png	:male-mechanic:
-1f468-200d-1f527.png	👨‍🔧
-1f468-200d-1f52c.png	:male-scientist:
-1f468-200d-1f52c.png	👨‍🔬
-1f468-200d-1f680.png	:male-astronaut:
-1f468-200d-1f680.png	👨‍🚀
-1f468-200d-1f692.png	:male-firefighter:
-1f468-200d-1f692.png	👨‍🚒
-1f468-200d-2695-fe0f.png	:male-doctor:
-1f468-200d-2695-fe0f.png	👨‍⚕️
-1f468-200d-2696-fe0f.png	:male-judge:
-1f468-200d-2696-fe0f.png	👨‍⚖️
-1f468-200d-2708-fe0f.png	:male-pilot:
-1f468-200d-2708-fe0f.png	👨‍✈️
+1f468-200d-1f527.png	👨‍🔧 :male-mechanic:
+1f468-200d-1f52c.png	👨‍🔬 :male-scientist:
+1f468-200d-1f680.png	👨‍🚀 :male-astronaut:
+1f468-200d-1f692.png	👨‍🚒 :male-firefighter:
+1f468-200d-2695-fe0f.png	👨‍⚕️ :male-doctor:
+1f468-200d-2696-fe0f.png	👨‍⚖️ :male-judge:
+1f468-200d-2708-fe0f.png	👨‍✈️ :male-pilot:
 1f468-200d-2764-fe0f-200d-1f468.png	👨‍❤️‍👨
 1f468-200d-2764-fe0f-200d-1f48b-200d-1f468.png	👨‍❤️‍💋‍👨
 1f468.png	👨
@@ -652,21 +556,14 @@ Author=Daniel Haskin
 1f469-1f3fd.png	👩🏽
 1f469-1f3fe.png	👩🏾
 1f469-1f3ff.png	👩🏿
-1f469-200d-1f33e.png	:female-farmer:
-1f469-200d-1f33e.png	👩‍🌾
-1f469-200d-1f373.png	:female-cook:
-1f469-200d-1f373.png	👩‍🍳
-1f469-200d-1f393.png	:female-student:
-1f469-200d-1f393.png	👩‍:mortar_board:
+1f469-200d-1f33e.png	👩‍🌾 :female-farmer:
+1f469-200d-1f373.png	👩‍🍳 :female-cook:
+1f469-200d-1f393.png	👩‍:mortar_board: :female-student:
 1f469-200d-1f393.png	👩‍🎓
-1f469-200d-1f3a4.png	:female-singer:
-1f469-200d-1f3a4.png	👩‍🎤
-1f469-200d-1f3a8.png	:female-artist:
-1f469-200d-1f3a8.png	👩‍🎨
-1f469-200d-1f3eb.png	:male-teacher:
-1f469-200d-1f3eb.png	👩‍🏫
-1f469-200d-1f3ed.png	:female-factory-worker:
-1f469-200d-1f3ed.png	👩‍🏭
+1f469-200d-1f3a4.png	👩‍🎤 :female-singer:
+1f469-200d-1f3a8.png	👩‍🎨 :female-artist:
+1f469-200d-1f3eb.png	👩‍🏫 :male-teacher:
+1f469-200d-1f3ed.png	👩‍🏭 :female-factory-worker:
 1f469-200d-1f466-200d-1f466.png	👩‍👦‍👦
 1f469-200d-1f466.png	👩‍👦
 1f469-200d-1f467-200d-1f466.png	👩‍👧‍👦
@@ -677,24 +574,15 @@ Author=Daniel Haskin
 1f469-200d-1f469-200d-1f467-200d-1f466.png	👩‍👩‍👧‍👦
 1f469-200d-1f469-200d-1f467-200d-1f467.png	👩‍👩‍👧‍👧
 1f469-200d-1f469-200d-1f467.png	👩‍👩‍👧
-1f469-200d-1f4bb.png	:female-technologist:
-1f469-200d-1f4bb.png	👩‍💻
-1f469-200d-1f4bc.png	:woman:
-1f469-200d-1f4bc.png	👩‍💼
-1f469-200d-1f527.png	:female-mechanic:
-1f469-200d-1f527.png	👩‍🔧
-1f469-200d-1f52c.png	:female-scientist:
-1f469-200d-1f52c.png	👩‍🔬
-1f469-200d-1f680.png	:female-astronaut:
-1f469-200d-1f680.png	👩‍🚀
-1f469-200d-1f692.png	:female-firefighter:
-1f469-200d-1f692.png	👩‍🚒
-1f469-200d-2695-fe0f.png	:female-doctor:
-1f469-200d-2695-fe0f.png	👩‍⚕️
-1f469-200d-2696-fe0f.png	:female-judge:
-1f469-200d-2696-fe0f.png	👩‍⚖️
-1f469-200d-2708-fe0f.png	:female-pilot:
-1f469-200d-2708-fe0f.png	👩‍✈️
+1f469-200d-1f4bb.png	👩‍💻 :female-technologist:
+1f469-200d-1f4bc.png	👩‍💼 :woman:
+1f469-200d-1f527.png	👩‍🔧 :female-mechanic:
+1f469-200d-1f52c.png	👩‍🔬 :female-scientist:
+1f469-200d-1f680.png	👩‍🚀 :female-astronaut:
+1f469-200d-1f692.png	👩‍🚒 :female-firefighter:
+1f469-200d-2695-fe0f.png	👩‍⚕️ :female-doctor:
+1f469-200d-2696-fe0f.png	👩‍⚖️ :female-judge:
+1f469-200d-2708-fe0f.png	👩‍✈️ :female-pilot:
 1f469-200d-2764-fe0f-200d-1f469.png	👩‍❤️‍👩
 1f469-200d-2764-fe0f-200d-1f48b-200d-1f469.png	👩‍❤️‍💋‍👩
 1f469.png	👩
@@ -724,16 +612,14 @@ Author=Daniel Haskin
 1f46e-1f3ff.png	👮🏿
 1f46e-200d-2640-fe0f.png	👮‍♀️
 1f46e.png	👮
-1f46f-200d-2642-fe0f.png	:man-with-bunny-ears-partying:
-1f46f-200d-2642-fe0f.png	👯‍♂️
+1f46f-200d-2642-fe0f.png	👯‍♂️ :man-with-bunny-ears-partying:
 1f46f.png	👯
 1f470-1f3fb.png	👰🏻
 1f470-1f3fc.png	👰🏼
 1f470-1f3fd.png	👰🏽
 1f470-1f3fe.png	👰🏾
 1f470-1f3ff.png	👰🏿
-1f470.png	:bride_with_veil:
-1f470.png	👰
+1f470.png	👰 :bride_with_veil:
 1f471-1f3fb.png	👱🏻
 1f471-1f3fc.png	👱🏼
 1f471-1f3fd.png	👱🏽
@@ -744,8 +630,7 @@ Author=Daniel Haskin
 1f472-1f3fb.png	👲🏻
 1f472-1f3fc.png	👲🏼
 1f472-1f3fd.png	👲🏽
-1f472-1f3fe.png	:man_with_gua_pi_mao:
-1f472-1f3fe.png	👲🏾
+1f472-1f3fe.png	👲🏾 :man_with_gua_pi_mao:
 1f472-1f3ff.png	👲🏿
 1f472.png	👲
 1f473-1f3fb.png	👳🏻
@@ -753,12 +638,10 @@ Author=Daniel Haskin
 1f473-1f3fd.png	👳🏽
 1f473-1f3fe.png	👳🏾
 1f473-1f3ff.png	👳🏿
-1f473-200d-2640-fe0f.png	:woman-wearing-turban:
-1f473-200d-2640-fe0f.png	👳‍♀️
+1f473-200d-2640-fe0f.png	👳‍♀️ :woman-wearing-turban:
 1f473.png	👳
 1f474-1f3fb.png	👴🏻
-1f474-1f3fc.png	:older_man:
-1f474-1f3fc.png	👴🏼
+1f474-1f3fc.png	👴🏼 :older_man:
 1f474-1f3fd.png	👴🏽
 1f474-1f3fe.png	👴🏾
 1f474-1f3ff.png	👴🏿
@@ -766,15 +649,13 @@ Author=Daniel Haskin
 1f475-1f3fb.png	👵🏻
 1f475-1f3fc.png	👵🏼
 1f475-1f3fd.png	👵🏽
-1f475-1f3fe.png	:older_woman:
-1f475-1f3fe.png	👵🏾
+1f475-1f3fe.png	👵🏾 :older_woman:
 1f475-1f3ff.png	👵🏿
 1f475.png	👵
 1f476-1f3fb.png	👶🏻
 1f476-1f3fc.png	👶🏼
 1f476-1f3fd.png	👶🏽
-1f476-1f3fe.png	:baby:
-1f476-1f3fe.png	👶🏾
+1f476-1f3fe.png	👶🏾 :baby:
 1f476-1f3ff.png	👶🏿
 1f476.png	👶
 1f477-1f3fb.png	👷🏻
@@ -785,40 +666,31 @@ Author=Daniel Haskin
 1f477-200d-2640-fe0f.png	👷‍♀️
 1f477.png	👷
 1f478-1f3fb.png	👸🏻
-1f478-1f3fc.png	:princess:
-1f478-1f3fc.png	👸🏼
+1f478-1f3fc.png	👸🏼 :princess:
 1f478-1f3fd.png	👸🏽
 1f478-1f3fe.png	👸🏾
 1f478-1f3ff.png	👸🏿
 1f478.png	👸
-1f479.png	:japanese_ogre:
-1f479.png	👹
-1f47a.png	:japanese_goblin:
-1f47a.png	👺
-1f47b.png	:ghost:
-1f47b.png	:ghost:
+1f479.png	👹 :japanese_ogre:
+1f47a.png	👺 :japanese_goblin:
+1f47b.png	:ghost: :ghost:
 1f47b.png	👻
 1f47c-1f3fb.png	👼🏻
 1f47c-1f3fc.png	👼🏼
 1f47c-1f3fd.png	👼🏽
 1f47c-1f3fe.png	👼🏾
-1f47c-1f3ff.png	:angel:
-1f47c-1f3ff.png	👼🏿
+1f47c-1f3ff.png	👼🏿 :angel:
 1f47c.png	👼
 1f47d.png	👽
-1f47e.png	:space_invader:
-1f47e.png	👾
-1f47f.png	:imp:
-1f47f.png	👿
-1f480.png	:skull:
-1f480.png	💀
+1f47e.png	👾 :space_invader:
+1f47f.png	👿 :imp:
+1f480.png	💀 :skull:
 1f481-1f3fb.png	💁🏻
 1f481-1f3fc.png	💁🏼
 1f481-1f3fd.png	💁🏽
 1f481-1f3fe.png	💁🏾
 1f481-1f3ff.png	💁🏿
-1f481-200d-2642-fe0f.png	:man-tipping-hand:
-1f481-200d-2642-fe0f.png	💁‍♂️
+1f481-200d-2642-fe0f.png	💁‍♂️ :man-tipping-hand:
 1f481.png	💁
 1f482-1f3fb.png	💂🏻
 1f482-1f3fc.png	💂🏼
@@ -828,8 +700,7 @@ Author=Daniel Haskin
 1f482-200d-2640-fe0f.png	💂‍♀️
 1f482.png	💂
 1f483-1f3fb.png	💃🏻
-1f483-1f3fc.png	:dancer:
-1f483-1f3fc.png	💃🏼
+1f483-1f3fc.png	💃🏼 :dancer:
 1f483-1f3fd.png	💃🏽
 1f483-1f3fe.png	💃🏾
 1f483-1f3ff.png	💃🏿
@@ -846,16 +717,14 @@ Author=Daniel Haskin
 1f486-1f3fd.png	💆🏽
 1f486-1f3fe.png	💆🏾
 1f486-1f3ff.png	💆🏿
-1f486-200d-2642-fe0f.png	:man-getting-massage:
-1f486-200d-2642-fe0f.png	💆‍♂️
+1f486-200d-2642-fe0f.png	💆‍♂️ :man-getting-massage:
 1f486.png	💆
 1f487-1f3fb.png	💇🏻
 1f487-1f3fc.png	💇🏼
 1f487-1f3fd.png	💇🏽
 1f487-1f3fe.png	💇🏾
 1f487-1f3ff.png	💇🏿
-1f487-200d-2642-fe0f.png	:man-getting-haircut:
-1f487-200d-2642-fe0f.png	💇‍♂️
+1f487-200d-2642-fe0f.png	💇‍♂️ :man-getting-haircut:
 1f487.png	💇
 1f488.png	💈
 1f489.png	💉
@@ -877,8 +746,7 @@ Author=Daniel Haskin
 1f491-1f3fe.png	💑🏾
 1f491-1f3ff.png	💑🏿
 1f491.png	💑
-1f492.png	:wedding:
-1f492.png	💒
+1f492.png	💒 :wedding:
 1f493.png	💓
 1f494.png	💔
 1f495.png	💕
@@ -889,13 +757,11 @@ Author=Daniel Haskin
 1f49a.png	💚
 1f49b.png	💛
 1f49c.png	💜
-1f49d.png	:gift_heart:
-1f49d.png	💝
+1f49d.png	💝 :gift_heart:
 1f49e.png	💞
 1f49f.png	💟
 1f4a0.png	💠
-1f4a1.png	:bulb:
-1f4a1.png	💡
+1f4a1.png	💡 :bulb:
 1f4a2.png	💢
 1f4a3.png	💣
 1f4a4.png	💤
@@ -903,8 +769,7 @@ Author=Daniel Haskin
 1f4a6.png	💦
 1f4a7.png	💧
 1f4a8.png	💨
-1f4a9.png	:hankey:
-1f4a9.png	💩
+1f4a9.png	💩 :hankey:
 1f4aa-1f3fb.png	💪🏻
 1f4aa-1f3fc.png	💪🏼
 1f4aa-1f3fd.png	💪🏽
@@ -929,14 +794,10 @@ Author=Daniel Haskin
 1f4ba.png	💺
 1f4bb.png	💻
 1f4bc.png	💼
-1f4bd.png	:minidisc:
-1f4bd.png	💽
-1f4be.png	:floppy_disk:
-1f4be.png	💾
-1f4bf.png	:cd:
-1f4bf.png	💿
-1f4c0.png	:dvd:
-1f4c0.png	📀
+1f4bd.png	💽 :minidisc:
+1f4be.png	💾 :floppy_disk:
+1f4bf.png	💿 :cd:
+1f4c0.png	📀 :dvd:
 1f4c1.png	📁
 1f4c2.png	📂
 1f4c3.png	📃
@@ -966,16 +827,12 @@ Author=Daniel Haskin
 1f4db.png	📛
 1f4dc.png	📜
 1f4dd.png	📝
-1f4de.png	:telephone_receiver:
-1f4de.png	📞
-1f4df.png	:pager:
-1f4df.png	📟
-1f4e0.png	:fax:
-1f4e0.png	📠
+1f4de.png	📞 :telephone_receiver:
+1f4df.png	📟 :pager:
+1f4e0.png	📠 :fax:
 1f4e1.png	📡
 1f4e2.png	📢
-1f4e3.png	:mega:
-1f4e3.png	📣
+1f4e3.png	📣 :mega:
 1f4e4.png	📤
 1f4e5.png	📥
 1f4e6.png	📦
@@ -989,23 +846,18 @@ Author=Daniel Haskin
 1f4ee.png	📮
 1f4ef.png	📯
 1f4f0.png	📰
-1f4f1.png	:phone:
-1f4f1.png	📱
+1f4f1.png	📱 :phone:
 1f4f2.png	📲
 1f4f3.png	📳
 1f4f4.png	📴
 1f4f5.png	📵
 1f4f6.png	📶
-1f4f7.png	:camera:
-1f4f7.png	📷
+1f4f7.png	📷 :camera:
 1f4f8.png	📸
-1f4f9.png	:video_camera:
-1f4f9.png	📹
-1f4fa.png	:tv:
-1f4fa.png	📺
+1f4f9.png	📹 :video_camera:
+1f4fa.png	📺 :tv:
 1f4fb.png	📻
-1f4fc.png	:vhs:
-1f4fc.png	📼
+1f4fc.png	📼 :vhs:
 1f4fd-fe0f.png	📽️
 1f4ff.png	📿
 1f500.png	🔀
@@ -1028,10 +880,8 @@ Author=Daniel Haskin
 1f511.png	🔑
 1f512.png	🔒
 1f513.png	🔓
-1f514.png	:bell:
-1f514.png	🔔
-1f515.png	:no_bell:
-1f515.png	🔕
+1f514.png	🔔 :bell:
+1f515.png	🔕 :no_bell:
 1f516.png	🔖
 1f517.png	🔗
 1f518.png	🔘
@@ -1056,17 +906,14 @@ Author=Daniel Haskin
 1f52b.png	🔫
 1f52c.png	🔬
 1f52d.png	🔭
-1f52e.png	:crystal_ball:
-1f52e.png	🔮
+1f52e.png	🔮 :crystal_ball:
 1f52f.png	🔯
 1f530.png	🔰
 1f531.png	🔱
 1f532.png	🔲
 1f533.png	🔳
-1f534.png	:red_circle:
-1f534.png	🔴
-1f535.png	:large_blue_circle:
-1f535.png	🔵
+1f534.png	🔴 :red_circle:
+1f535.png	🔵 :large_blue_circle:
 1f536.png	🔶
 1f537.png	🔷
 1f538.png	🔸
@@ -1129,8 +976,7 @@ Author=Daniel Haskin
 1f57a-1f3fc.png	🕺🏼
 1f57a-1f3fd.png	🕺🏽
 1f57a-1f3fe.png	🕺🏾
-1f57a-1f3ff.png	:man_dancing:
-1f57a-1f3ff.png	🕺🏿
+1f57a-1f3ff.png	🕺🏿 :man_dancing:
 1f57a.png	🕺
 1f587-fe0f.png	🖇️
 1f58a-fe0f.png	🖊️
@@ -1156,8 +1002,7 @@ Author=Daniel Haskin
 1f596-1f3ff.png	🖖🏿
 1f596.png	🖖
 1f5a4.png	🖤
-1f5a5-fe0f.png	:computer:
-1f5a5-fe0f.png	🖥️
+1f5a5-fe0f.png	🖥️ :computer:
 1f5a8-fe0f.png	🖨️
 1f5b1-fe0f.png	🖱️
 1f5b2-fe0f.png	🖲️
@@ -1177,166 +1022,96 @@ Author=Daniel Haskin
 1f5ef-fe0f.png	🗯️
 1f5f3-fe0f.png	🗳️
 1f5fa-fe0f.png	🗺️
-1f5fb.png	:mount_fuji:
-1f5fb.png	🗻
-1f5fc.png	:tokyo_tower:
-1f5fc.png	🗼
-1f5fd.png	:statue_of_liberty:
-1f5fd.png	🗽
-1f5fe.png	:japan:
-1f5fe.png	🗾
+1f5fb.png	🗻 :mount_fuji:
+1f5fc.png	🗼 :tokyo_tower:
+1f5fd.png	🗽 :statue_of_liberty:
+1f5fe.png	🗾 :japan:
 1f5ff.png	🗿
 1f600.png	😀
-1f601.png	:joy:
-1f601.png	😁
+1f601.png	😁 :joy:
 1f602.png	😂
-1f603.png	:smiley:
-1f603.png	😃
+1f603.png	😃 :smiley:
 1f604.png	😄
-1f605.png	:sweat_smile:
-1f605.png	😅
+1f605.png	😅 :sweat_smile:
 1f606.png	😆
-1f607.png	:innocent:
-1f607.png	😇
-1f608.png	:smiling_imp:
-1f608.png	😈
-1f609.png	:wink:
-1f609.png	😉
-1f60a.png	:smile:
-1f60a.png	😊
-1f60b.png	:yum:
-1f60b.png	😋
-1f60c.png	:relaxed:
-1f60c.png	:relieved:
+1f607.png	😇 :innocent:
+1f608.png	😈 :smiling_imp:
+1f609.png	😉 :wink:
+1f60a.png	😊 :smile:
+1f60b.png	😋 :yum:
+1f60c.png	:relieved: :relaxed:
 1f60c.png	😌
-1f60d.png	:heart_eyes:
-1f60d.png	😍
-1f60e.png	:sunglasses:
-1f60e.png	😎
-1f60f.png	:smirk:
-1f60f.png	😏
-1f610.png	:neutral_face:
-1f610.png	😐
-1f611.png	:expressionless:
-1f611.png	😑
-1f612.png	:unamused:
-1f612.png	😒
-1f613.png	:sweat:
-1f613.png	😓
-1f614.png	:pensive:
-1f614.png	😔
-1f615.png	:confused:
-1f615.png	😕
-1f616.png	:confounded:
-1f616.png	😖
-1f617.png	:kissing:
-1f617.png	😗
-1f618.png	:kissing_heart:
-1f618.png	😘
-1f619.png	:kissing_smiling_eyes:
-1f619.png	😙
-1f61a.png	:kissing_closed_eyes:
-1f61a.png	😚
-1f61b.png	:stuck_out_tongue:
-1f61b.png	😛
-1f61c.png	:stuck_out_tongue_winking_eye:
-1f61c.png	😜
-1f61d.png	:stuck_out_tongue_closed_eyes:
-1f61d.png	😝
-1f61e.png	:disappointed:
-1f61e.png	😞
-1f61f.png	:worried:
-1f61f.png	😟
-1f620.png	:angry:
-1f620.png	😠
-1f621.png	:rage:
-1f621.png	😡
-1f622.png	:cry:
-1f622.png	😢
-1f623.png	:persevere:
-1f623.png	😣
-1f624.png	:triumph:
-1f624.png	😤
-1f625.png	:disappointed_relieved:
-1f625.png	😥
-1f626.png	:frowning:
-1f626.png	😦
-1f627.png	:anguished:
-1f627.png	😧
-1f628.png	:fearful:
-1f628.png	😨
-1f629.png	:weary:
-1f629.png	😩
+1f60d.png	😍 :heart_eyes:
+1f60e.png	😎 :sunglasses:
+1f60f.png	😏 :smirk:
+1f610.png	😐 :neutral_face:
+1f611.png	😑 :expressionless:
+1f612.png	😒 :unamused:
+1f613.png	😓 :sweat:
+1f614.png	😔 :pensive:
+1f615.png	😕 :confused:
+1f616.png	😖 :confounded:
+1f617.png	😗 :kissing:
+1f618.png	😘 :kissing_heart:
+1f619.png	😙 :kissing_smiling_eyes:
+1f61a.png	😚 :kissing_closed_eyes:
+1f61b.png	😛 :stuck_out_tongue:
+1f61c.png	😜 :stuck_out_tongue_winking_eye:
+1f61d.png	😝 :stuck_out_tongue_closed_eyes:
+1f61e.png	😞 :disappointed:
+1f61f.png	😟 :worried:
+1f620.png	😠 :angry:
+1f621.png	😡 :rage:
+1f622.png	😢 :cry:
+1f623.png	😣 :persevere:
+1f624.png	😤 :triumph:
+1f625.png	😥 :disappointed_relieved:
+1f626.png	😦 :frowning:
+1f627.png	😧 :anguished:
+1f628.png	😨 :fearful:
+1f629.png	😩 :weary:
 1f62a.png	😪
-1f62b.png	:tired_face:
-1f62b.png	😫
-1f62c.png	:grimacing:
-1f62c.png	😬
-1f62d.png	:sob:
-1f62d.png	😭
-1f62e.png	:open_mouth:
-1f62e.png	😮
-1f62f.png	:hushed:
-1f62f.png	😯
-1f630.png	:cold_sweat:
-1f630.png	😰
-1f631.png	:scream:
-1f631.png	😱
-1f632.png	:astonished:
-1f632.png	😲
-1f633.png	:blush:
-1f633.png	:flushed:
+1f62b.png	😫 :tired_face:
+1f62c.png	😬 :grimacing:
+1f62d.png	😭 :sob:
+1f62e.png	😮 :open_mouth:
+1f62f.png	😯 :hushed:
+1f630.png	😰 :cold_sweat:
+1f631.png	😱 :scream:
+1f632.png	😲 :astonished:
+1f633.png	:flushed: :blush:
 1f633.png	😳
-1f634.png	:sleeping:
-1f634.png	:sleepy:
+1f634.png	:sleepy: :sleeping:
 1f634.png	😴
-1f635.png	:dizzy_face:
-1f635.png	😵
-1f636.png	:no_mouth:
-1f636.png	😶
-1f637.png	:mask:
-1f637.png	😷
-1f638.png	:smile_cat:
-1f638.png	😸
-1f639.png	:joy_cat:
-1f639.png	😹
-1f63a.png	:smiley_cat:
-1f63a.png	😺
-1f63b.png	:heart_eyes_cat:
-1f63b.png	😻
-1f63c.png	:smirk_cat:
-1f63c.png	😼
-1f63d.png	:kissing_cat:
-1f63d.png	😽
-1f63e.png	:pouting_cat:
-1f63e.png	😾
-1f63f.png	:crying_cat_face:
-1f63f.png	😿
-1f640.png	:scream_cat:
-1f640.png	🙀
-1f641.png	:slightly_frowning_face:
-1f641.png	🙁
-1f642.png	:slightly_smiling_face:
-1f642.png	🙂
-1f643.png	:upside_down_face:
-1f643.png	🙃
-1f644.png	:face_with_rolling_eyes:
-1f644.png	🙄
+1f635.png	😵 :dizzy_face:
+1f636.png	😶 :no_mouth:
+1f637.png	😷 :mask:
+1f638.png	😸 :smile_cat:
+1f639.png	😹 :joy_cat:
+1f63a.png	😺 :smiley_cat:
+1f63b.png	😻 :heart_eyes_cat:
+1f63c.png	😼 :smirk_cat:
+1f63d.png	😽 :kissing_cat:
+1f63e.png	😾 :pouting_cat:
+1f63f.png	😿 :crying_cat_face:
+1f640.png	🙀 :scream_cat:
+1f641.png	🙁 :slightly_frowning_face:
+1f642.png	🙂 :slightly_smiling_face:
+1f643.png	🙃 :upside_down_face:
+1f644.png	🙄 :face_with_rolling_eyes:
 1f645-1f3fb.png	🙅🏻
 1f645-1f3fc.png	🙅🏼
 1f645-1f3fd.png	🙅🏽
 1f645-1f3fe.png	🙅🏾
 1f645-1f3ff.png	🙅🏿
-1f645-200d-2642-fe0f.png	:man-gesturing-no:
-1f645-200d-2642-fe0f.png	🙅‍♂️
+1f645-200d-2642-fe0f.png	🙅‍♂️ :man-gesturing-no:
 1f645.png	🙅
 1f646-1f3fb.png	🙆🏻
 1f646-1f3fc.png	🙆🏼
 1f646-1f3fd.png	🙆🏽
 1f646-1f3fe.png	🙆🏾
 1f646-1f3ff.png	🙆🏿
-1f646-200d-2642-fe0f.png	:man-gesturing-ok:
-1f646-200d-2642-fe0f.png	🙆‍♂️
+1f646-200d-2642-fe0f.png	🙆‍♂️ :man-gesturing-ok:
 1f646.png	🙆
 1f647-1f3fb.png	🙇🏻
 1f647-1f3fc.png	🙇🏼
@@ -1345,24 +1120,19 @@ Author=Daniel Haskin
 1f647-1f3ff.png	🙇🏿
 1f647-200d-2640-fe0f.png	🙇‍♀️
 1f647.png	🙇
-1f648.png	:see_no_evil:
-1f648.png	🙈
-1f649.png	:hear_no_evil:
-1f649.png	🙉
-1f64a.png	:speak_no_evil:
-1f64a.png	🙊
+1f648.png	🙈 :see_no_evil:
+1f649.png	🙉 :hear_no_evil:
+1f64a.png	🙊 :speak_no_evil:
 1f64b-1f3fb.png	🙋🏻
 1f64b-1f3fc.png	🙋🏼
 1f64b-1f3fd.png	🙋🏽
 1f64b-1f3fe.png	🙋🏾
 1f64b-1f3ff.png	🙋🏿
-1f64b-200d-2642-fe0f.png	:man-raising-hand:
-1f64b-200d-2642-fe0f.png	🙋‍♂️
+1f64b-200d-2642-fe0f.png	🙋‍♂️ :man-raising-hand:
 1f64b.png	🙋
 1f64c-1f3fb.png	🙌🏻
 1f64c-1f3fc.png	🙌🏼
-1f64c-1f3fd.png	:raised_hands:
-1f64c-1f3fd.png	🙌🏽
+1f64c-1f3fd.png	🙌🏽 :raised_hands:
 1f64c-1f3fe.png	🙌🏾
 1f64c-1f3ff.png	🙌🏿
 1f64c.png	🙌
@@ -1371,21 +1141,18 @@ Author=Daniel Haskin
 1f64d-1f3fd.png	🙍🏽
 1f64d-1f3fe.png	🙍🏾
 1f64d-1f3ff.png	🙍🏿
-1f64d-200d-2642-fe0f.png	:man-frowning:
-1f64d-200d-2642-fe0f.png	🙍‍♂️
+1f64d-200d-2642-fe0f.png	🙍‍♂️ :man-frowning:
 1f64d.png	🙍
 1f64e-1f3fb.png	🙎🏻
 1f64e-1f3fc.png	🙎🏼
 1f64e-1f3fd.png	🙎🏽
 1f64e-1f3fe.png	🙎🏾
 1f64e-1f3ff.png	🙎🏿
-1f64e-200d-2642-fe0f.png	:man-pouting:
-1f64e-200d-2642-fe0f.png	🙎‍♂️
+1f64e-200d-2642-fe0f.png	🙎‍♂️ :man-pouting:
 1f64e.png	🙎
 1f64f-1f3fb.png	🙏🏻
 1f64f-1f3fc.png	🙏🏼
-1f64f-1f3fd.png	:pray:
-1f64f-1f3fd.png	🙏🏽
+1f64f-1f3fd.png	🙏🏽 :pray:
 1f64f-1f3fe.png	🙏🏾
 1f64f-1f3ff.png	🙏🏿
 1f64f.png	🙏
@@ -1423,8 +1190,7 @@ Author=Daniel Haskin
 1f69f.png	🚟
 1f6a0.png	🚠
 1f6a1.png	🚡
-1f6a2.png	:ship:
-1f6a2.png	🚢
+1f6a2.png	🚢 :ship:
 1f6a3-1f3fb.png	🚣🏻
 1f6a3-1f3fc.png	🚣🏼
 1f6a3-1f3fd.png	🚣🏽
@@ -1432,8 +1198,7 @@ Author=Daniel Haskin
 1f6a3-1f3ff.png	🚣🏿
 1f6a3-200d-2640-fe0f.png	🚣‍♀️
 1f6a3.png	🚣
-1f6a4.png	:speedboat:
-1f6a4.png	🚤
+1f6a4.png	🚤 :speedboat:
 1f6a5.png	🚥
 1f6a6.png	🚦
 1f6a7.png	🚧
@@ -1468,8 +1233,7 @@ Author=Daniel Haskin
 1f6b6-1f3fd.png	🚶🏽
 1f6b6-1f3fe.png	🚶🏾
 1f6b6-1f3ff.png	🚶🏿
-1f6b6-200d-2640-fe0f.png	:woman-walking:
-1f6b6-200d-2640-fe0f.png	🚶‍♀️
+1f6b6-200d-2640-fe0f.png	🚶‍♀️ :woman-walking:
 1f6b6.png	🚶
 1f6b7.png	🚷
 1f6b8.png	🚸
@@ -1485,8 +1249,7 @@ Author=Daniel Haskin
 1f6c0-1f3fd.png	🛀🏽
 1f6c0-1f3fe.png	🛀🏾
 1f6c0-1f3ff.png	🛀🏿
-1f6c0.png	:bath:
-1f6c0.png	🛀
+1f6c0.png	🛀 :bath:
 1f6c1.png	🛁
 1f6c2.png	🛂
 1f6c3.png	🛃
@@ -1495,8 +1258,7 @@ Author=Daniel Haskin
 1f6cb-fe0f.png	🛋️
 1f6cc-1f3fb.png	🛌🏻
 1f6cc-1f3fc.png	🛌🏼
-1f6cc-1f3fd.png	:sleeping_accommodation:
-1f6cc-1f3fd.png	🛌🏽
+1f6cc-1f3fd.png	🛌🏽 :sleeping_accommodation:
 1f6cc-1f3fe.png	🛌🏾
 1f6cc-1f3ff.png	🛌🏿
 1f6cc.png	🛌
@@ -1512,8 +1274,7 @@ Author=Daniel Haskin
 1f6e2-fe0f.png	🛢️
 1f6e3-fe0f.png	🛣️
 1f6e4-fe0f.png	🛤️
-1f6e5-fe0f.png	:boat:
-1f6e5-fe0f.png	🛥️
+1f6e5-fe0f.png	🛥️ :boat:
 1f6e9-fe0f.png	🛩️
 1f6eb.png	🛫
 1f6ec.png	🛬
@@ -1546,22 +1307,14 @@ Author=Daniel Haskin
 1f90f-1f3fe.png	🤏🏾
 1f90f-1f3ff.png	🤏🏿
 1f90f.png	🤏
-1f910.png	:zipper_mouth_face:
-1f910.png	🤐
-1f911.png	:money_mouth_face:
-1f911.png	🤑
-1f912.png	:face_with_thermometer:
-1f912.png	🤒
-1f913.png	:nerd_face:
-1f913.png	🤓
-1f914.png	:thinking_face:
-1f914.png	🤔
-1f915.png	:face_with_head_bandage:
-1f915.png	🤕
-1f916.png	:robot_face:
-1f916.png	🤖
-1f917.png	:hugging_face:
-1f917.png	🤗
+1f910.png	🤐 :zipper_mouth_face:
+1f911.png	🤑 :money_mouth_face:
+1f912.png	🤒 :face_with_thermometer:
+1f913.png	🤓 :nerd_face:
+1f914.png	🤔 :thinking_face:
+1f915.png	🤕 :face_with_head_bandage:
+1f916.png	🤖 :robot_face:
+1f917.png	🤗 :hugging_face:
 1f918-1f3fb.png	🤘🏻
 1f918-1f3fc.png	🤘🏼
 1f918-1f3fd.png	🤘🏽
@@ -1605,55 +1358,36 @@ Author=Daniel Haskin
 1f91f-1f3fe.png	🤟🏾
 1f91f-1f3ff.png	🤟🏿
 1f91f.png	🤟
-1f920.png	:face_with_cowboy_hat:
-1f920.png	🤠
-1f921.png	:clown_face:
-1f921.png	🤡
-1f922.png	:nauseated_face:
-1f922.png	🤢
-1f923.png	:rolling_on_the_floor_laughing:
-1f923.png	🤣
-1f924.png	:drooling_face:
-1f924.png	🤤
-1f925.png	:lying_face:
-1f925.png	🤥
+1f920.png	🤠 :face_with_cowboy_hat:
+1f921.png	🤡 :clown_face:
+1f922.png	🤢 :nauseated_face:
+1f923.png	🤣 :rolling_on_the_floor_laughing:
+1f924.png	🤤 :drooling_face:
+1f925.png	🤥 :lying_face:
 1f926-1f3fb.png	🤦🏻
 1f926-1f3fc.png	🤦🏼
 1f926-1f3fd.png	🤦🏽
 1f926-1f3fe.png	🤦🏾
 1f926-1f3ff.png	🤦🏿
-1f926-200d-2640-fe0f.png	:woman-facepalming:
-1f926-200d-2640-fe0f.png	🤦‍♀️
-1f926-200d-2642-fe0f.png	:man-facepalming:
-1f926-200d-2642-fe0f.png	🤦‍♂️
+1f926-200d-2640-fe0f.png	🤦‍♀️ :woman-facepalming:
+1f926-200d-2642-fe0f.png	🤦‍♂️ :man-facepalming:
 1f926.png	🤦
-1f927.png	:sneezing_face:
-1f927.png	🤧
-1f928.png	:face_with_raised_eyebrow:
-1f928.png	🤨
-1f929.png	:star-struck:
-1f929.png	🤩
-1f92a.png	:zany_face:
-1f92a.png	🤪
-1f92b.png	:shushing_face:
-1f92b.png	🤫
-1f92c.png	:face_with_symbols_on_mouth:
-1f92c.png	🤬
-1f92d.png	:face_with_hand_over_mouth:
-1f92d.png	🤭
-1f92e.png	:face_vomiting:
-1f92e.png	🤮
-1f92f.png	:exploding_head:
-1f92f.png	🤯
+1f927.png	🤧 :sneezing_face:
+1f928.png	🤨 :face_with_raised_eyebrow:
+1f929.png	🤩 :star-struck:
+1f92a.png	🤪 :zany_face:
+1f92b.png	🤫 :shushing_face:
+1f92c.png	🤬 :face_with_symbols_on_mouth:
+1f92d.png	🤭 :face_with_hand_over_mouth:
+1f92e.png	🤮 :face_vomiting:
+1f92f.png	🤯 :exploding_head:
 1f930-1f3fb.png	🤰🏻
 1f930-1f3fc.png	🤰🏼
 1f930-1f3fd.png	🤰🏽
 1f930-1f3fe.png	🤰🏾
-1f930-1f3ff.png	:pregnant_woman:
-1f930-1f3ff.png	🤰🏿
+1f930-1f3ff.png	🤰🏿 :pregnant_woman:
 1f930.png	🤰
-1f931-1f3fb.png	:breast-feeding:
-1f931-1f3fb.png	🤱🏻
+1f931-1f3fb.png	🤱🏻 :breast-feeding:
 1f931-1f3fc.png	🤱🏼
 1f931-1f3fd.png	🤱🏽
 1f931-1f3fe.png	🤱🏾
@@ -1676,8 +1410,7 @@ Author=Daniel Haskin
 1f934-1f3fd.png	🤴🏽
 1f934-1f3fe.png	🤴🏾
 1f934-1f3ff.png	🤴🏿
-1f934.png	:prince:
-1f934.png	🤴
+1f934.png	🤴 :prince:
 1f935-1f3fb.png	🤵🏻
 1f935-1f3fc.png	🤵🏼
 1f935-1f3fd.png	🤵🏽
@@ -1688,16 +1421,14 @@ Author=Daniel Haskin
 1f936-1f3fc.png	🤶🏼
 1f936-1f3fd.png	🤶🏽
 1f936-1f3fe.png	🤶🏾
-1f936-1f3ff.png	:mrs_claus:
-1f936-1f3ff.png	🤶🏿
+1f936-1f3ff.png	🤶🏿 :mrs_claus:
 1f936.png	🤶
 1f937-1f3fb.png	🤷🏻
 1f937-1f3fc.png	🤷🏼
 1f937-1f3fd.png	🤷🏽
 1f937-1f3fe.png	🤷🏾
 1f937-1f3ff.png	🤷🏿
-1f937-200d-2642-fe0f.png	:man-shrugging:
-1f937-200d-2642-fe0f.png	🤷‍♂️
+1f937-200d-2642-fe0f.png	🤷‍♂️ :man-shrugging:
 1f937.png	🤷
 1f938-1f3fb.png	🤸🏻
 1f938-1f3fc.png	🤸🏼
@@ -1912,39 +1643,33 @@ Author=Daniel Haskin
 1f9cf-1f3fe.png	🧏🏾
 1f9cf-1f3ff.png	🧏🏿
 1f9cf.png	🧏
-1f9d0.png	:face_with_monocle:
-1f9d0.png	🧐
+1f9d0.png	🧐 :face_with_monocle:
 1f9d1-1f3fb.png	🧑🏻
 1f9d1-1f3fc.png	🧑🏼
 1f9d1-1f3fd.png	🧑🏽
-1f9d1-1f3fe.png	:adult:
-1f9d1-1f3fe.png	🧑🏾
+1f9d1-1f3fe.png	🧑🏾 :adult:
 1f9d1-1f3ff.png	🧑🏿
 1f9d1.png	🧑
 1f9d2-1f3fb.png	🧒🏻
 1f9d2-1f3fc.png	🧒🏼
-1f9d2-1f3fd.png	:child:
-1f9d2-1f3fd.png	🧒🏽
+1f9d2-1f3fd.png	🧒🏽 :child:
 1f9d2-1f3fe.png	🧒🏾
 1f9d2-1f3ff.png	🧒🏿
 1f9d2.png	🧒
 1f9d3-1f3fb.png	🧓🏻
 1f9d3-1f3fc.png	🧓🏼
 1f9d3-1f3fd.png	🧓🏽
-1f9d3-1f3fe.png	:older_adult:
-1f9d3-1f3fe.png	🧓🏾
+1f9d3-1f3fe.png	🧓🏾 :older_adult:
 1f9d3-1f3ff.png	🧓🏿
 1f9d3.png	🧓
 1f9d4-1f3fb.png	🧔🏻
 1f9d4-1f3fc.png	🧔🏼
 1f9d4-1f3fd.png	🧔🏽
 1f9d4-1f3fe.png	🧔🏾
-1f9d4-1f3ff.png	:bearded_person:
-1f9d4-1f3ff.png	🧔🏿
+1f9d4-1f3ff.png	🧔🏿 :bearded_person:
 1f9d4.png	🧔
 1f9d5-1f3fb.png	🧕🏻
-1f9d5-1f3fc.png	:person_with_headscarf:
-1f9d5-1f3fc.png	🧕🏼
+1f9d5-1f3fc.png	🧕🏼 :person_with_headscarf:
 1f9d5-1f3fd.png	🧕🏽
 1f9d5-1f3fe.png	🧕🏾
 1f9d5-1f3ff.png	🧕🏿
@@ -1954,90 +1679,70 @@ Author=Daniel Haskin
 1f9d6-1f3fd.png	🧖🏽
 1f9d6-1f3fe.png	🧖🏾
 1f9d6-1f3ff.png	🧖🏿
-1f9d6-200d-2640-fe0f.png	:woman_in_steamy_room:
-1f9d6-200d-2640-fe0f.png	🧖‍♀️
-1f9d6-200d-2642-fe0f.png	:man_in_steamy_room:
-1f9d6-200d-2642-fe0f.png	🧖‍♂️
+1f9d6-200d-2640-fe0f.png	🧖‍♀️ :woman_in_steamy_room:
+1f9d6-200d-2642-fe0f.png	🧖‍♂️ :man_in_steamy_room:
 1f9d6.png	🧖
 1f9d7-1f3fb.png	🧗🏻
 1f9d7-1f3fc.png	🧗🏼
 1f9d7-1f3fd.png	🧗🏽
 1f9d7-1f3fe.png	🧗🏾
 1f9d7-1f3ff.png	🧗🏿
-1f9d7-200d-2640-fe0f.png	:woman_climbing:
-1f9d7-200d-2640-fe0f.png	🧗‍♀️
-1f9d7-200d-2642-fe0f.png	:man_climbing:
-1f9d7-200d-2642-fe0f.png	🧗‍♂️
+1f9d7-200d-2640-fe0f.png	🧗‍♀️ :woman_climbing:
+1f9d7-200d-2642-fe0f.png	🧗‍♂️ :man_climbing:
 1f9d7.png	🧗
 1f9d8-1f3fb.png	🧘🏻
 1f9d8-1f3fc.png	🧘🏼
 1f9d8-1f3fd.png	🧘🏽
 1f9d8-1f3fe.png	🧘🏾
 1f9d8-1f3ff.png	🧘🏿
-1f9d8-200d-2640-fe0f.png	:woman_in_lotus_position:
-1f9d8-200d-2640-fe0f.png	🧘‍♀️
-1f9d8-200d-2642-fe0f.png	:man_in_lotus_position:
-1f9d8-200d-2642-fe0f.png	🧘‍♂️
+1f9d8-200d-2640-fe0f.png	🧘‍♀️ :woman_in_lotus_position:
+1f9d8-200d-2642-fe0f.png	🧘‍♂️ :man_in_lotus_position:
 1f9d8.png	🧘
 1f9d9-1f3fb.png	🧙🏻
 1f9d9-1f3fc.png	🧙🏼
 1f9d9-1f3fd.png	🧙🏽
 1f9d9-1f3fe.png	🧙🏾
 1f9d9-1f3ff.png	🧙🏿
-1f9d9-200d-2640-fe0f.png	:female_mage:
-1f9d9-200d-2640-fe0f.png	🧙‍♀️
-1f9d9-200d-2642-fe0f.png	:male_mage:
-1f9d9-200d-2642-fe0f.png	🧙‍♂️
+1f9d9-200d-2640-fe0f.png	🧙‍♀️ :female_mage:
+1f9d9-200d-2642-fe0f.png	🧙‍♂️ :male_mage:
 1f9d9.png	🧙
 1f9da-1f3fb.png	🧚🏻
 1f9da-1f3fc.png	🧚🏼
 1f9da-1f3fd.png	🧚🏽
 1f9da-1f3fe.png	🧚🏾
 1f9da-1f3ff.png	🧚🏿
-1f9da-200d-2640-fe0f.png	:female_fairy:
-1f9da-200d-2640-fe0f.png	🧚‍♀️
-1f9da-200d-2642-fe0f.png	:male_fairy:
-1f9da-200d-2642-fe0f.png	🧚‍♂️
+1f9da-200d-2640-fe0f.png	🧚‍♀️ :female_fairy:
+1f9da-200d-2642-fe0f.png	🧚‍♂️ :male_fairy:
 1f9da.png	🧚
 1f9db-1f3fb.png	🧛🏻
 1f9db-1f3fc.png	🧛🏼
 1f9db-1f3fd.png	🧛🏽
 1f9db-1f3fe.png	🧛🏾
 1f9db-1f3ff.png	🧛🏿
-1f9db-200d-2640-fe0f.png	:female_vampire:
-1f9db-200d-2640-fe0f.png	🧛‍♀️
-1f9db-200d-2642-fe0f.png	:male_vampire:
-1f9db-200d-2642-fe0f.png	🧛‍♂️
+1f9db-200d-2640-fe0f.png	🧛‍♀️ :female_vampire:
+1f9db-200d-2642-fe0f.png	🧛‍♂️ :male_vampire:
 1f9db.png	🧛
 1f9dc-1f3fb.png	🧜🏻
 1f9dc-1f3fc.png	🧜🏼
 1f9dc-1f3fd.png	🧜🏽
 1f9dc-1f3fe.png	🧜🏾
 1f9dc-1f3ff.png	🧜🏿
-1f9dc-200d-2640-fe0f.png	:mermaid:
-1f9dc-200d-2640-fe0f.png	🧜‍♀️
-1f9dc-200d-2642-fe0f.png	:merman:
-1f9dc-200d-2642-fe0f.png	🧜‍♂️
+1f9dc-200d-2640-fe0f.png	🧜‍♀️ :mermaid:
+1f9dc-200d-2642-fe0f.png	🧜‍♂️ :merman:
 1f9dc.png	🧜
 1f9dd-1f3fb.png	🧝🏻
 1f9dd-1f3fc.png	🧝🏼
 1f9dd-1f3fd.png	🧝🏽
 1f9dd-1f3fe.png	🧝🏾
 1f9dd-1f3ff.png	🧝🏿
-1f9dd-200d-2640-fe0f.png	:female_elf:
-1f9dd-200d-2640-fe0f.png	🧝‍♀️
-1f9dd-200d-2642-fe0f.png	:male_elf:
-1f9dd-200d-2642-fe0f.png	🧝‍♂️
+1f9dd-200d-2640-fe0f.png	🧝‍♀️ :female_elf:
+1f9dd-200d-2642-fe0f.png	🧝‍♂️ :male_elf:
 1f9dd.png	🧝
-1f9de-200d-2640-fe0f.png	:female_genie:
-1f9de-200d-2640-fe0f.png	🧞‍♀️
-1f9de-200d-2642-fe0f.png	:male_genie:
-1f9de-200d-2642-fe0f.png	🧞‍♂️
+1f9de-200d-2640-fe0f.png	🧞‍♀️ :female_genie:
+1f9de-200d-2642-fe0f.png	🧞‍♂️ :male_genie:
 1f9de.png	🧞
-1f9df-200d-2640-fe0f.png	:female_zombie:
-1f9df-200d-2640-fe0f.png	🧟‍♀️
-1f9df-200d-2642-fe0f.png	:male_zombie:
-1f9df-200d-2642-fe0f.png	🧟‍♂️
+1f9df-200d-2640-fe0f.png	🧟‍♀️ :female_zombie:
+1f9df-200d-2642-fe0f.png	🧟‍♂️ :male_zombie:
 1f9df.png	🧟
 1f9e0.png	🧠
 1f9e1.png	🧡
@@ -2127,17 +1832,12 @@ Author=Daniel Haskin
 25fc-fe0f.png	◼️
 25fd.png	◽
 25fe.png	◾
-2600-fe0f.png	:sunny:
-2600-fe0f.png	☀️
-2601-fe0f.png	:cloud:
-2601-fe0f.png	☁️
-2602-fe0f.png	:umbrella:
-2602-fe0f.png	☂️
-2603-fe0f.png	:snowman:
-2603-fe0f.png	☃️
+2600-fe0f.png	☀️ :sunny:
+2601-fe0f.png	☁️ :cloud:
+2602-fe0f.png	☂️ :umbrella:
+2603-fe0f.png	☃️ :snowman:
 2604-fe0f.png	☄️
-260e-fe0f.png	:telephone:
-260e-fe0f.png	☎️
+260e-fe0f.png	☎️ :telephone:
 2611-fe0f.png	☑️
 2614.png	☔
 2615.png	☕
@@ -2148,8 +1848,7 @@ Author=Daniel Haskin
 261d-1f3fe.png	☝🏾
 261d-1f3ff.png	☝🏿
 261d-fe0f.png	☝️
-2620-fe0f.png	:skull_and_crossbones:
-2620-fe0f.png	☠️
+2620-fe0f.png	☠️ :skull_and_crossbones:
 2622-fe0f.png	☢️
 2623-fe0f.png	☣️
 2626-fe0f.png	☦️
@@ -2157,8 +1856,7 @@ Author=Daniel Haskin
 262e-fe0f.png	☮️
 262f-fe0f.png	☯️
 2638-fe0f.png	☸️
-2639-fe0f.png	:white_frowning_face:
-2639-fe0f.png	☹️
+2639-fe0f.png	☹️ :white_frowning_face:
 263a-fe0f.png	☺️
 2640-fe0f.png	♀️
 2642-fe0f.png	♂️
@@ -2193,11 +1891,9 @@ Author=Daniel Haskin
 269b-fe0f.png	⚛️
 269c-fe0f.png	⚜️
 26a0-fe0f.png	⚠️
-26a1.png	:zap:
-26a1.png	⚡
+26a1.png	⚡ :zap:
 26a7-fe0f.png	⚧️
-26aa.png	:white_circle:
-26aa.png	⚪
+26aa.png	⚪ :white_circle:
 26ab.png	⚫
 26b0-fe0f.png	⚰️
 26b1-fe0f.png	⚱️
@@ -2212,17 +1908,13 @@ Author=Daniel Haskin
 26d3-fe0f.png	⛓️
 26d4.png	⛔
 26e9-fe0f.png	⛩️
-26ea.png	:church:
-26ea.png	⛪
+26ea.png	⛪ :church:
 26f0-fe0f.png	⛰️
 26f1-fe0f.png	⛱️
-26f2.png	:fountain:
-26f2.png	⛲
-26f3.png	:flags:
-26f3.png	⛳
+26f2.png	⛲ :fountain:
+26f3.png	⛳ :flags:
 26f4-fe0f.png	⛴️
-26f5.png	:sailboat:
-26f5.png	⛵
+26f5.png	⛵ :sailboat:
 26f7-fe0f.png	⛷️
 26f8-fe0f.png	⛸️
 26f9-1f3fb.png	⛹🏻
@@ -2232,8 +1924,7 @@ Author=Daniel Haskin
 26f9-1f3ff.png	⛹🏿
 26f9-fe0f-200d-2640-fe0f.png	⛹️‍♀️
 26f9-fe0f.png	⛹️
-26fa.png	:tent:
-26fa.png	⛺
+26fa.png	⛺ :tent:
 26fd.png	⛽
 2702-fe0f.png	✂️
 2705.png	✅
@@ -2269,12 +1960,10 @@ Author=Daniel Haskin
 2716-fe0f.png	✖️
 271d-fe0f.png	✝️
 2721-fe0f.png	✡️
-2728.png	:sparkler:
-2728.png	✨
+2728.png	✨ :sparkler:
 2733-fe0f.png	✳️
 2734-fe0f.png	✴️
-2744-fe0f.png	:snowflake:
-2744-fe0f.png	❄️
+2744-fe0f.png	❄️ :snowflake:
 2747-fe0f.png	❇️
 274c.png	❌
 274e.png	❎
@@ -2284,8 +1973,7 @@ Author=Daniel Haskin
 2757.png	❗
 2763-fe0f.png	❣️
 2764-fe0f.png	❤️
-2795.png	:heavy_plus_sign:
-2795.png	➕
+2795.png	➕ :heavy_plus_sign:
 2796.png	➖
 2797.png	➗
 27a1-fe0f.png	➡️
