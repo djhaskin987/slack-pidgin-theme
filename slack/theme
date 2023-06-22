@@ -5,7 +5,7 @@ Icon=1f308.png
 Author=Daniel Haskin
 
 [default]
-one-hundred.jpg :100:
+one-hundred.png :100:
 ack.png :ack:
 cool-doge.gif :cool-doge:
 mild-panic-intensifies.gif :mild-panic-intensifies:
@@ -28,7 +28,7 @@ dns.png :dns:
 1f440.png	👀 :eyes:
 2795.png	➕ :heavy_plus_sign:
 1f44b.png	👋 :wave:
-1f44d.png	👍 :thumbsup:
+1f44d.png	👍 :thumbsup: :+1:
 1f44f.png	👏 :clap:
 1f648.png	🙈 :see_no_evil:
 1f649.png	🙉 :hear_no_evil:
