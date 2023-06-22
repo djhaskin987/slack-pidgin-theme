@@ -5,6 +5,8 @@ Icon=1f308.png
 Author=Daniel Haskin
 
 [default]
+one-hundred.jpg :100:
+ack.png :ack:
 cool-doge.gif :cool-doge:
 mild-panic-intensifies.gif :mild-panic-intensifies:
 eyes-intensifies.gif :eyes-intensifies:
