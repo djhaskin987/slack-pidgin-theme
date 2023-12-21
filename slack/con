@@ -1,0 +1,9 @@
+#!/bin/sh
+set -ex
+for i in *.png
+do
+    if ! identify $i | grep -q '64x64'
+    then
+        magick $i -resize 64x64 $i
+    fi
+done
