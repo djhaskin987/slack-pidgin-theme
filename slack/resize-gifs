@@ -1,0 +1,10 @@
+#!/bin/sh
+set -ex
+
+for i in *.gif
+do
+    if ! identify $i 2>&1 | grep -q '64x64'
+    then
+        convert $i -resize 64x64 $i
+    fi
+done
